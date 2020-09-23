@@ -1,0 +1,9 @@
+{
+  "name": "docker-express",
+  "version": "1.0.0",
+  "description": "Express Boilerplate in Node.js",
+  "repository": "https://github.com/gron1gh1/docker-express",
+  "author": "gron1gh1 <gron1gh1@gmail.com>",
+  "dependencies": {
+  }
+}
