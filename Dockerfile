@@ -4,4 +4,4 @@ WORKDIR /node
 COPY ./package.json /node/package.json
 RUN npm install -g nodemon && npm install
 COPY ./src /node/src
-CMD ["nodemon", "-L", "./src/server.js"]
+CMD ["nodemon", "-L", "./src/index.js"]
