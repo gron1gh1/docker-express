@@ -1,6 +1,6 @@
 # docker-express
-Express BoilerPlate in Node.js
-
+**Express BoilerPlate in Node.js**  
+**Express + cors + bodyParser + cookieParser**
 # Usage
 ```bash
 > git clone https://github.com/gron1gh1/docker-express
